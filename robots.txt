@@ -1,0 +1,8 @@
+User-agent: *
+
+Sitemap: https://www.sbellens.be/sitemap.xml
+
+Disallow: /assets/
+Disallow: /assets/*
+Disallow: /cv.pdf
+Disallow: /portfolio.js
